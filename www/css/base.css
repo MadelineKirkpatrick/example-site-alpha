@@ -1,0 +1,8 @@
+.base-layout header {
+	width: 960px;
+	margin: 0 auto; /* Centers the box */
+}
+
+.base-layout footer {
+	background-color: blue;
+}
