@@ -1,19 +1,3 @@
-# My Header
+### My Example Site
 
-## My Smaller Header
-
-### Yet Smaller
-
-#### Babby Header
-
-1. My
-2. Ordered
-3. List
-
-- My 
-- Un
-- Ordered
-- List
-
-Surprise Baboon!
-Shrugging Monkey
+This is site is a clone of: [Viget](http://viget.com)
